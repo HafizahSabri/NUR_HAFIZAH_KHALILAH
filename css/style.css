@@ -58,13 +58,12 @@
 	opacity: .8;
 }
 .main{
-	display: flex;
+	display: inline-flex;
 	flex-direction: column;
 	align-items: center;
 	position: absolute;
 	top: 30%;
 	right: 10%;
-
 }
 .rounded-image{
 	border-radius: 30%;
@@ -97,17 +96,11 @@
 .contact ul li {
 	padding: 40px 70px;
 	background-image: url('images/langit.jpg');
-	display: inline-block;
+	display: inline-flex;
 	color: white;
 	background-color: white;
 	border-radius: 20%;
 	margin: 10px 20px;
-
-}
-.copyright{
-	border: 1px solid;
-	margin: 50px;
-	background-color: darkblue;
 }
 .about{
 	text-align: center;
