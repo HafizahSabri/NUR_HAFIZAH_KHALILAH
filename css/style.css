@@ -65,7 +65,7 @@
 	top: 30%;
 	right: 10%;
 }
-.rounded-image{
+.images{
 	border-radius: 30%;
     webkit-border-radius: 30%;
     moz-border-radius: 30%;
@@ -122,5 +122,4 @@
 	font-family: sans-serif;
 	font-size: 60px;
 }
-
 
